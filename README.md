@@ -1,2 +1,2 @@
-# Kauana-Nunes
-Atividade realizada em sala
+# Matematica-II-3C
+Repositório das aulas de Matemática II.
